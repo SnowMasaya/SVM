@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication5/app/src/main/java/com/example/app/MyView.java" timestamp="1428442295281">
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+        <mark key="[" line="18" column="55" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" timestamp="1425100051651">
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="6" column="34" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HIPBlack/app/src/main/res/layout/activity_main.xml" timestamp="1425335277424">
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication2/app/src/main/java/com/example/app/MainActivity.java" timestamp="1425106324586">
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="[" line="20" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/fragment_main.xml" timestamp="1428011383944">
+        <mark key="'" line="15" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MeetAPp/app/src/main/res/values/strings.xml" timestamp="1429478445914">
+        <mark key="[" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HIPBlack/app/src/main/java/com/example/app/MainActivity.java" timestamp="1425299220850">
+        <mark key="]" line="25" column="67" />
+        <mark key="^" line="25" column="67" />
+        <mark key="." line="25" column="67" />
+        <mark key="[" line="25" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Inustgram/app/src/main/java/com/example/app/FullscreenActivity.java" timestamp="1425100530078">
+        <mark key="]" line="66" column="65" />
+        <mark key="^" line="66" column="65" />
+        <mark key="." line="66" column="65" />
+        <mark key="[" line="65" column="8" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BeautyMovie/app/src/main/res/layout/fragment_main.xml" timestamp="1429446947126">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml" timestamp="1423909943985">
+        <mark key="]" line="16" column="62" />
+        <mark key="^" line="16" column="62" />
+        <mark key="." line="16" column="62" />
+        <mark key="[" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MeetAPp/app/src/main/AndroidManifest.xml" timestamp="1429479561901">
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="[" line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HIPBlack/app/src/main/res/layout/fragment_main.xml" timestamp="1425298989539">
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BeautyMovie/app/src/main/res/layout/activity_main.xml" timestamp="1427343046641">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HipBlack2/app/build.gradle" timestamp="1425547395840">
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="[" line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Inustgram/app/src/main/res/layout/activity_fullscreen.xml" timestamp="1425100147502">
+        <mark key="]" line="44" column="54" />
+        <mark key="." line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BeautyMovie/app/src/main/AndroidManifest.xml" timestamp="1429447058798">
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="[" line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HipBlack2/app/src/main/AndroidManifest.xml" timestamp="1425549408927">
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="14" column="40" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BackBlack/app/src/main/AndroidManifest.xml" timestamp="1427343228160">
+        <mark key="]" line="7" column="64" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BackBlack/app/src/main/res/layout/fragment_main.xml" timestamp="1427342978860">
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/MainActivity.java" timestamp="1425106369225">
+        <mark key="'" line="74" column="23" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="[" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BackBlack/app/src/main/java/back/black/app/MainActivity.java" timestamp="1427343151124">
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication5/app/src/main/java/com/example/app/MainActivity.java" timestamp="1428356561818">
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="[" line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HIPBlack/app/src/main/java/hipblack/MainActivity.java" timestamp="1425335476513">
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/AndroidManifest.xml" timestamp="1423910501455">
+        <mark key="]" line="8" column="64" />
+        <mark key="^" line="8" column="64" />
+        <mark key="." line="8" column="64" />
+        <mark key="[" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HIPBlack/app/src/main/AndroidManifest.xml" timestamp="1425336647888">
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication4/app/src/main/java/com/example/app/MainActivity.java" timestamp="1425109018016">
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HipBlack2/app/src/main/res/values/strings.xml" timestamp="1425548037324">
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_main.xml" timestamp="1423909852573">
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="[" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BackBlack/app/src/main/res/layout/activity_main.xml" timestamp="1427343036044">
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BackBlack/app/src/main/res/values/strings.xml" timestamp="1427343059984">
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/Student.java" timestamp="1423962796865">
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="[" line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HIPBlack/app/src/main/res/values/strings.xml" timestamp="1425336494813">
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MeetAPp/app/src/main/java/meet/deai/app/MeetApp.java" timestamp="1429451416691">
+        <mark key="]" line="26" column="46" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="46" />
+        <mark key="[" line="26" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/Apllication.java" timestamp="1424000059940">
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="13" column="22" />
+        <mark key="[" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BeautyMovie/app/src/main/res/values/strings.xml" timestamp="1427343103685">
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+        <mark key="[" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BeautyMovie/app/src/main/java/com/beauty/movie/MainActivity.java" timestamp="1429447157116">
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="46" />
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/HipBlack2/app/src/main/res/layout/activity_main.xml" timestamp="1425548004866">
+        <mark key="'" line="0" column="38" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="42" column="9" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/MainActivity.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/MainActivity.java" />
+      <jump line="34" column="12" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/MainActivity.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/MainActivity.java" />
+      <jump line="87" column="23" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/MainActivity.java" />
+      <jump line="75" column="12" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="40" column="4" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="57" column="17" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="23" column="35" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="36" column="27" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="48" column="27" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="55" column="27" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="27" column="30" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="34" column="12" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="64" column="8" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="62" column="10" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="70" column="4" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="19" column="100" filename="$USER_HOME$/AndroidStudioProjects/MyApplication3/app/src/main/java/com/example/app/DBHelper.java" />
+      <jump line="2" column="3" filename="$USER_HOME$/AndroidStudioProjects/BackBlack/app/src/main/java/back/black/app/MainActivity.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/AndroidStudioProjects/BackBlack/app/src/main/java/back/black/app/MainActivity.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/AndroidStudioProjects/HipBlack2/app/src/main/java/hipblack/remove/app/MainActivity.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/AndroidStudioProjects/HipBlack2/app/src/main/java/hipblack/remove/app/MainActivity.java" />
+      <jump line="0" column="38" filename="$USER_HOME$/AndroidStudioProjects/HipBlack2/app/src/main/res/layout/activity_main.xml" />
+      <jump line="10" column="4" filename="$USER_HOME$/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/fragment_main.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/fragment_main.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>Z</text>
+      </register>
+      <register name="/" type="4">
+        <text>close</text>
+      </register>
+      <register name="-" type="4">
+        <text>Z</text>
+      </register>
+      <register name="3" type="4">
+        <text>9</text>
+      </register>
+      <register name="2" type="4">
+        <text>W</text>
+      </register>
+      <register name="1" type="4">
+        <text>Z</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2Via2l0LldlYlZpZXc7CmltcG9ydCBhbmRyb2lkLndlYmtpdC5XZWJWaWV3Q2xpZW50Owo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>/</text>
+      </register>
+      <register name="6" type="4">
+        <text>p</text>
+      </register>
+      <register name="5" type="4">
+        <text>j</text>
+      </register>
+      <register name="4" type="4">
+        <text>e</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="4">
+        <text>g</text>
+      </register>
+      <register name="8" type="4">
+        <text>l</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>close</last-search>
+      <last-offset />
+      <last-pattern>close</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>copy</entry>
+        <entry>create</entry>
+        <entry>close</entry>
+      </history-search>
+      <history-cmd>
+        <entry>u</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
+

@@ -1,6 +1,0 @@
-heroku login
-heroku create my-project-name
-git remote add heroku git@heroku.com:{my-project-name}.git
-git add .
-git commit -m "コメント"
-git push heroku master
